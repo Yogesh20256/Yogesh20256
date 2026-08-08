@@ -26,9 +26,9 @@
 
 ```yaml
 name: Yogesh
-role: Software Engineer / AI Builder
+role: Student / Weak But Curious
 current_project: JARVIS - local-first AI desktop agent
-focus: Python · Automation · AI Agents
+focus: Python · Automation · AI Agents / AI DOCK
 fun_fact: This entire README is alive and self-updating
 ```
 
